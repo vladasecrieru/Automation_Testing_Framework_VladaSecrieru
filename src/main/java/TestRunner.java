@@ -38,6 +38,5 @@ public class TestRunner {
         contiunueBtn.click();
 
         webDriverManagerObject.getWebDriver().quit();
-
     }
 }
